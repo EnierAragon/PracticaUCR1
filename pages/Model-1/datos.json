@@ -1,1 +1,34 @@
+[
+{
+"id": 1,
+"nombre": "Matias",
+"provincia": "Alajuela",
+"correo": "matias@gmail.com"
+},
+{
+"id": 2,
+"nombre": "Luis",
+"provincia": "Limon",
+"correo": "luis@gmail.com"
+},
+{
+"id": 3,
+"nombre": "Anna",
+"provincia": "Alajuela",
+"correo": "anna@gmail.com"
+},
+{
+"id": 4,
+"nombre": "Joshua",
+"provincia": "Puntarenas",
+"correo": "joshua@gmail.com"
+}
+,
+{
+"id": 5,
+"nombre": "Benjamin",
+"provincia": "Cartago",
+"correo": "benjamin@gmail.com"
+}
+]
 
