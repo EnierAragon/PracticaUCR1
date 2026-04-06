@@ -1,1 +1,24 @@
+.pokemons{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    padding: 20px;
+    background-color: rgb(237, 195, 115);
+    max-width: 400px;
+}
+
+.pokemons .container{
+    background-color: wheat;
+    border: 1px solid rgb(200, 139, 96);
+    padding: 10px;
+    margin: 5px 0; 
+    max-width: 400px;
+}
+.pokemons label{
+    font-weight: bold;
+    margin-right: 10px;
+}
+.pokemons select{
+    font-family: inherit;
+    padding: 20px;
+    min-width: 100px;
+}
 
