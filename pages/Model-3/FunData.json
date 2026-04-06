@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "edad": 28,
+    "email": "juan.perez@example.com",
+    "profesion": "Ingeniero de Software",
+    "pais": "México"
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido": "García",
+    "edad": 34,
+    "email": "maria.garcia@example.com",
+    "profesion": "Arquitecta",
+    "pais": "España"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellido": "Rodríguez",
+    "edad": 22,
+    "email": "carlos.rod@example.com",
+    "profesion": "Estudiante",
+    "pais": "Argentina"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana",
+    "apellido": "Martínez",
+    "edad": 45,
+    "email": "ana.martinez@example.com",
+    "profesion": "Doctora",
+    "pais": "Colombia"
+  },
+  {
+    "id": 5,
+    "nombre": "Luis",
+    "apellido": "Hernández",
+    "edad": 31,
+    "email": "luis.h@example.com",
+    "profesion": "Diseñador Gráfico",
+    "pais": "Chile"
+  },
+  {
+    "id": 6,
+    "nombre": "Elena",
+    "apellido": "López",
+    "edad": 29,
+    "email": "elena.lopez@example.com",
+    "profesion": "Marketing Digital",
+    "pais": "Perú"
+  },
+  {
+    "id": 7,
+    "nombre": "Javier",
+    "apellido": "Sánchez",
+    "edad": 40,
+    "email": "javier.s@example.com",
+    "profesion": "Contador",
+    "pais": "Uruguay"
+  },
+  {
+    "id": 8,
+    "nombre": "Sofía",
+    "apellido": "Ramírez",
+    "edad": 26,
+    "email": "sofia.r@example.com",
+    "profesion": "Psicóloga",
+    "pais": "Costa Rica"
+  },
+  {
+    "id": 9,
+    "nombre": "Diego",
+    "apellido": "Torres",
+    "edad": 37,
+    "email": "diego.t@example.com",
+    "profesion": "Abogado",
+    "pais": "Panamá"
+  },
+  {
+    "id": 10,
+    "nombre": "Lucía",
+    "apellido": "Flores",
+    "edad": 33,
+    "email": "lucia.f@example.com",
+    "profesion": "Cocinera",
+    "pais": "Guatemala"
+  }
+]
