@@ -17,13 +17,19 @@
 }
 
 body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-family:
+    'Inter',
+    system-ui,
+    -apple-system,
+    sans-serif;
   background-color: var(--bg-color);
   color: var(--text-primary);
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  padding: 40px 0;
   overflow-x: hidden;
 }
 
@@ -36,21 +42,27 @@ body {
   perspective: 1000px;
 }
 
-.local, .api {
+.local,
+.api {
   flex: 1;
   background: var(--card-bg);
   border: 1px solid var(--border-color);
   border-radius: 20px;
   padding: 30px;
   box-shadow: 0 15px 35px var(--shadow-color);
-  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease;
+  transition:
+    transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.3s ease;
   position: relative;
   overflow: hidden;
 }
 
-.local:hover, .api:hover {
+.local:hover,
+.api:hover {
   transform: translateY(-10px) scale(1.02);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 0 0 20px var(--glow-red);
+  box-shadow:
+    0 20px 40px rgba(0, 0, 0, 0.6),
+    0 0 20px var(--glow-red);
   border-color: var(--accent-soft);
 }
 
@@ -114,7 +126,8 @@ button:active {
 }
 
 /* Accent element to simulate 'floating' aspect */
-.local::before, .api::before {
+.local::before,
+.api::before {
   content: '';
   position: absolute;
   top: -50%;
@@ -131,13 +144,37 @@ button:active {
   z-index: 2;
 }
 
+.notes {
+  width: 95%;
+  max-width: 1200px;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  padding: 25px;
+  margin: 40px auto;
+  box-shadow: 0 10px 25px var(--shadow-color);
+  text-align: justify;
+}
+
+.notes h2 {
+  font-size: 1.4rem;
+  margin-bottom: 15px;
+}
+
+.data-notes p {
+  color: var(--text-secondary);
+  margin: 8px 0;
+  font-style: italic;
+}
+
 @media (max-width: 900px) {
   .container {
     flex-direction: column;
     align-items: center;
   }
-  
-  .local, .api {
+
+  .local,
+  .api {
     width: 100%;
     margin-bottom: 20px;
   }
