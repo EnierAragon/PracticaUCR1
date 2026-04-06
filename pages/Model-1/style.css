@@ -12,3 +12,19 @@ header button{
     border-radius: 10%;
     
 }
+
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: 40px 350px;
+    color: black;
+}
+td, th {
+  border: 1px solid #111011;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) {
+  background-color: #f8d8f3;
+}
