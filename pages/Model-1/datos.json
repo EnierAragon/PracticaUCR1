@@ -1,1 +1,34 @@
+[
+{
+"id": 1,
+"nombre": "Matias",
+"carrera": "Informática",
+"correo": "matias@ucr.ac.cr"
+},
+{
+"id": 2,
+"nombre": "Luis",
+"carrera": "Tecnologías Multimedia",
+"correo": "luis@ucr.ac.cr"
+},
+{
+"id": 3,
+"nombre": "Ana",
+"carrera": "Informática Empresarial",
+"correo": "ana@ucr.ac.cr"
+},
+{
+"id": 4,
+"nombre": "Joshua",
+"carrera": "Diceño grafico",
+"correo": "joshua@ucr.ac.cr"
+}
+,
+{
+"id": 5,
+"nombre": "Benjamin",
+"carrera": "Recursos Humanos",
+"correo": "benjamin@ucr.ac.cr"
+}
+]
 
