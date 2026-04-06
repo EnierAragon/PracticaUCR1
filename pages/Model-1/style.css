@@ -1,1 +1,14 @@
-
+body{
+    margin: 0px;
+}
+header{
+    background-color: rgb(234, 176, 234);
+    padding: 20px;
+    color: white;
+    text-align: center;
+    
+}
+header button{
+    border-radius: 10%;
+    
+}

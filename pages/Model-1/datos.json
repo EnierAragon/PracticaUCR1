@@ -2,33 +2,33 @@
 {
 "id": 1,
 "nombre": "Matias",
-"carrera": "Informática",
-"correo": "matias@ucr.ac.cr"
+"provincia": "Alajuela",
+"correo": "matias@gmail.com"
 },
 {
 "id": 2,
 "nombre": "Luis",
-"carrera": "Tecnologías Multimedia",
-"correo": "luis@ucr.ac.cr"
+"provincia": "Limon",
+"correo": "luis@gmail.com"
 },
 {
 "id": 3,
-"nombre": "Ana",
-"carrera": "Informática Empresarial",
-"correo": "ana@ucr.ac.cr"
+"nombre": "Anna",
+"provincia": "Alajuela",
+"correo": "anna@gmail.com"
 },
 {
 "id": 4,
 "nombre": "Joshua",
-"carrera": "Diceño grafico",
-"correo": "joshua@ucr.ac.cr"
+"provincia": "Puntarenas",
+"correo": "joshua@gmail.com"
 }
 ,
 {
 "id": 5,
 "nombre": "Benjamin",
-"carrera": "Recursos Humanos",
-"correo": "benjamin@ucr.ac.cr"
+"provincia": "Cartago",
+"correo": "benjamin@gmail.com"
 }
 ]
 
